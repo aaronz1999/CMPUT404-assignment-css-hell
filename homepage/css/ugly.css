@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+h1 {
+    font-size: 500%;
+    font-family: fantasy; 
+    color: blue;
+    
+}
+h2 {font-family: fantasy; 
+    color: blue;
+    font-size: large;
+}
+p {font-family: fantasy; 
+    color: blue;
+}
+img{width:100px; 
+    height:120px; 
+    float:left;
+    margin:10px
+}
